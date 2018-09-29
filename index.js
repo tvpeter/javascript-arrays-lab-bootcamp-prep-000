@@ -37,3 +37,11 @@ function removeLastKitten()
   
   return newArr;
 }
+
+function removeFirstKitten()
+{
+  
+}
+
+
+
